@@ -4,7 +4,6 @@ Building a Data Warehouse with SQL to analyze sales data and retrieve business i
 
 This project consolidates sales data from two source systems (**CRM** and **ERP**) into a SQL Server data warehouse, following the **Medallion Architecture** (Bronze → Silver → Gold). The end result is a clean **star schema** ready for analytics and reporting.
 
-![Data Architecture](docs/data_architecture.png)
 
 ---
 
